@@ -1,0 +1,18 @@
+[
+  {
+    "package": "dotwhisker",
+    "oncran": true
+  },
+  {
+    "package": "gesisdata",
+    "oncran": true
+  },
+  {
+    "package": "pewdata",
+    "oncran": true
+  },
+  {
+    "package": "ropercenter",
+    "oncran": true
+  }
+]
