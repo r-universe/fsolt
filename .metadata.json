@@ -1,9 +1,5 @@
 [
   {
-    "package": "dotwhisker",
-    "oncran": true
-  },
-  {
     "package": "gesisdata",
     "oncran": true
   },
