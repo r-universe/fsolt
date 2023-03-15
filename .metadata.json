@@ -1,10 +1,18 @@
 [
   {
+    "package": "DCPO",
+    "oncran": true
+  },
+  {
     "package": "dotwhisker",
     "oncran": true
   },
   {
     "package": "gesisdata",
+    "oncran": true
+  },
+  {
+    "package": "icpsrdata",
     "oncran": true
   },
   {

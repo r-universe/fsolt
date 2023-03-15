@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DCPO"]
+	path = DCPO
+	url = https://github.com/fsolt/dcpo
+	shallow = true
+	registered = true
 [submodule "dotwhisker"]
 	path = dotwhisker
 	url = https://github.com/fsolt/dotwhisker
@@ -11,6 +16,11 @@
 [submodule "gesisdata"]
 	path = gesisdata
 	url = https://github.com/fsolt/gesisdata
+	shallow = true
+	registered = true
+[submodule "icpsrdata"]
+	path = icpsrdata
+	url = https://github.com/fsolt/icpsrdata
 	shallow = true
 	registered = true
 [submodule "pewdata"]
