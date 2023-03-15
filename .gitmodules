@@ -8,11 +8,6 @@
 	url = https://github.com/fsolt/dotwhisker
 	shallow = true
 	registered = true
-[submodule "gesisdata"]
-	path = gesisdata
-	url = https://github.com/fsolt/gesisdata
-	shallow = true
-	registered = true
 [submodule "pewdata"]
 	path = pewdata
 	url = https://github.com/fsolt/pewdata
@@ -21,5 +16,10 @@
 [submodule "ropercenter"]
 	path = ropercenter
 	url = https://github.com/fsolt/ropercenter
+	shallow = true
+	registered = true
+[submodule "gesisdata"]
+	path = gesisdata
+	url = https://github.com/fsolt/gesisdata
 	shallow = true
 	registered = true
